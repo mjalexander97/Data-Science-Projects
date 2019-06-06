@@ -12,7 +12,7 @@ Code and reports from projects that I have worked on as an undergraduate at UCSB
       * Cleaning and manipulating the data set to include the most important variables  
       * Creating and interpreting visualizations using ggplot   
       * Dimensionality reduction of the data using Principal Component Analysis (PCA)  
-      * Classification with K-Nearest Neighbors, Decision Trees, and Logistic Regression  
+      * Classification with K-Nearest Neighbors, Decision Trees, and Logistic Regression    
       
     The data set was provided by a professor. 
     
@@ -20,7 +20,7 @@ Code and reports from projects that I have worked on as an undergraduate at UCSB
 * PSTAT 135: Big Data Analytics (PySpark)
 
     Over the course of a quarter, I worked with two other classmates to investigate whether the category of a Jeopardy question could be predicted based on the content of the question. The following programming skills were used:   
-       * Data cleansing and preparation of the questions for analysis (tokenization, stop word removal, stemming, etc) 
+       * Data cleansing and preparation of the questions for analysis (tokenization, stop word removal, stemming, etc)   
        * Creating Bisecting K-Means, Logistic Regression, and Naive Bayes classification models to answer our research question. This involved creating a pipeline that used Hashing TF, IDF, and Indexing algorithms before running our three models.  
        
     Our project was presented to the class during the final week of the quarter, along with a submission of a report with detailed explanations of our procedure and findings. The data set was found on Reddit. 
