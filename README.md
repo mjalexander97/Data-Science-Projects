@@ -1,5 +1,5 @@
 # Data-Science-Projects
-Code and reports from projects that I have worked on as an undergraduate at UCSB: 
+Code and reports from projects that I have worked on as an undergraduate at UCSB. Explanations of each project and the skills used can be found below: 
 
 * PSTAT 126: Regression Analysis (RStudio)
   
