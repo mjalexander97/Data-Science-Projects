@@ -26,7 +26,7 @@ Code and reports from projects that I have worked on as an undergraduate at UCSB
     Our project was presented to the class during the final week of the quarter, along with a submission of a report with detailed explanations of our procedure and findings. The data set was found on Reddit. 
       
   
-  * Visualization of Volunteer Hours by Location and Demographics of Volunteers, Partners in Education (Tableau, Microsoft Excel)  
+* Visualization of Volunteer Hours by Location and Demographics of Volunteers, Partners in Education (Tableau, Microsoft Excel)  
   
   
     I created a representation of Partners’ volunteer hours by school locations to better understand the impact Partners in Education has in Santa Barbara and Santa Maria county, as well as observe the demographics of the volunteer pool. I Used Microsoft Excel in conjunction with company database to gather and scrub the relevant data for analysis. During this project, I learned how to import datasets into Tableau and various methods of data visualization using the software in a short period of time. The final product was presented by the Executive Director to the company Board of Directors at a later meeting.
