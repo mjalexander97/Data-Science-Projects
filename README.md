@@ -9,8 +9,7 @@ Code and reports from projects that I have worked on as an undergraduate at UCSB
 
 ## PSTAT 131: Data Mining/Statistical Machine Learning (Rstudio)
 
-   The final project for this class was to use a comprehensive data set of the 2016 election that contained polling results from all counties and states to gain insight into the election result. To accomplish this, the following data mining techniques were used:  
-   
+   The final project for this class was to use a comprehensive data set of the 2016 election that contained polling results from all counties and states to gain insight into the election result. To accomplish this, the following data mining techniques were used:     
       * Cleaning and manipulating the data set to include the most important variables  
       * Creating and interpreting visualizations using ggplot   
       * Dimensionality reduction of the data using Principal Component Analysis (PCA)  
