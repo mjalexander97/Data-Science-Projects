@@ -1,6 +1,17 @@
 # Data-Science-Projects
 Code and reports from projects that I have worked on as an undergraduate at UCSB. Explanations of each project and the skills used can be found below: 
 
+## Visualization of Volunteer Hours by Location and Demographics of Volunteers, Partners in Education (Tableau, Microsoft Excel)  
+  
+   As an intern at Partners in Education, I was assigned to work on a project that would help our Executive Director gain a better understanding of the impact our organization was having at each of our site locations. Being an organization that sought to expand the knowledge and opportunities of students in Santa Barbara county, it was extremely important for the company to know which of our school locations were receiving enough volunteer support and to identify those that required additional assistance. 
+
+Using the organization's own volunteer data base, I created a custom dataset of specifically chosen attributes to help me investigate where most of our volunteer support was being sent. After creating this data set, I then used Microsoft Excel to clean and prepare the information for analysis. During the information gathering period, I also considered it would be interesting to see the demographics of our volunteer pool as well. By the end of the project, I had created visualizations that observed volunteer hours by location via scatterplot and Tableau mapping software, and a chart that summarized the demographic composition of our volunteers. 
+
+Through my investigation, I found that a majority of the organization's volunteer support goes to (mostly Elementary) schools in Santa Barbara as opposed to Goleta, Carpinteria, or other small towns in the county. Additionally, the volunteer pool mostly consisted of White individuals, with Asian volunteers being the next highest group, followed by Black and Latino volunteers. 
+
+For this project, I was initially given a vague but important assignment of helping our organization understand its impact on the county. I had to mine my own information from the company's database and decide on the best methods for communicating my findings. Due to my work on this project, I helped begin outreach to lesser served schools, and sparked a conversation about ways to equalize the demographic composition of the volunteer pool.
+
+
 ## PSTAT 126: Regression Analysis (RStudio)
   
    The purpose of this project was to answer the following question: can happiness be predicted based on an individual's gender, number of hours worked per week, and the satisfaction of one's relationship on a scale of 1 - 10. 
@@ -29,9 +40,7 @@ Code and reports from projects that I have worked on as an undergraduate at UCSB
    Our project was presented to the class during the final week of the quarter, along with a submission of a report with detailed explanations of our procedure and findings. The data set was found via Kaggle. 
       
   
-## Visualization of Volunteer Hours by Location and Demographics of Volunteers, Partners in Education (Tableau, Microsoft Excel)  
-  
-   This project was assigned to me by the Executive Director of Partners in Education. I created a representation of the organization's volunteer hours by school locations to better understand the impact Partners in Education has in Santa Barbara and Santa Maria county. Additionally, I was to look observe the demographics of the volunteer pool and make note of any interesting patterns. I Used Microsoft Excel in conjunction with company database to gather and scrub the relevant data for analysis. During this project, I learned how to import datasets into Tableau and various methods of data visualization using the software in a short period of time. The final product was presented by the Executive Director to the company Board of Directors at a later meeting.
+
 
        
        
