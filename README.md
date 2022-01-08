@@ -1,6 +1,10 @@
 # Data-Science-Projects
-Code and reports from projects that I have worked on as an undergraduate at UCSB. Explanations of each project and the skills used can be found below: 
+Code and reports from projects that I have worked on as an undergraduate at UCSB or in my personal time. Explanations of each project and the skills used can be found below: 
 
+## Taylor Swift Lyrics Analysis 
+
+  An analysis of Taylor Swift lyrics to try to see how her songwriting and song themes have evolved over the course of her career. 
+  
 ## Visualization of Volunteer Hours by Location and Demographics of Volunteers, Partners in Education (Tableau, Microsoft Excel)  
   
    As an intern at Partners in Education, I was assigned to work on a project that would help our Executive Director gain a better understanding of the impact our organization was having at each of our site locations. Being an organization that strived to expand the knowledge and opportunities of students in Santa Barbara county, it was extremely important for the company to know which of our school locations were receiving enough volunteer support and to identify those that required additional assistance. 
