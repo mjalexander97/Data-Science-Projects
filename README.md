@@ -1,7 +1,11 @@
 # Data-Science-Projects
 Code and reports from projects that I have worked on as an undergraduate at UCSB or in my personal time. Explanations of each project and the skills used can be found below: 
 
-## Taylor Swift Lyrics Analysis 
+## Anime Recommendation Project (Python, Data Cleaning, Machine Learning)
+
+  A program that recommends anime based on cosine similarity of ratings from thousands of users. 
+
+## Taylor Swift Lyrics Analysis (Python, Data Cleaning, Text Processing/NLP) 
 
   An analysis of Taylor Swift lyrics to try to see how her songwriting and song themes have evolved over the course of her career. 
   
