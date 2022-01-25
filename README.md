@@ -36,7 +36,7 @@ Due to my work on this project, I helped begin outreach to lesser served schools
    The data set was provided by a professor. 
     
       
-## PSTAT 135: Big Data Analytics (PySpark)
+## PSTAT 135: Big Data Analytics (Python, PySpark)
 
    Over the course of a quarter, I worked with two other classmates to investigate whether the category of a Jeopardy question could be predicted based on the content of the question. The following programming skills were used:  
    
