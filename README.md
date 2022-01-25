@@ -44,9 +44,3 @@ Due to my work on this project, I helped begin outreach to lesser served schools
    - Creating Bisecting K-Means, Logistic Regression, and Naive Bayes classification models to answer our research question. This involved creating a pipeline that used Hashing TF, IDF, and Indexing algorithms before running our three models.  
        
    Our project was presented to the class during the final week of the quarter, along with a submission of a report with detailed explanations of our procedure and findings. The data set was found via Kaggle. 
-      
-  
-
-
-       
-       
