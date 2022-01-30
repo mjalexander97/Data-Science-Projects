@@ -1,6 +1,10 @@
 # Data-Science-Projects
 Code and reports from projects that I have worked on as an undergraduate at UCSB or in my personal time. Explanations of each project and the skills used can be found below: 
 
+## Human Resources Data Analysis (Python, Data Cleaning, EDA, Data Visualization, Hypothesis Testing)
+  
+  An analysis of public Human Resources data from a company investigating factors that contribute to an employee's satisfaction and decision to leave the company. Dataset  found on Kaggle (https://www.kaggle.com/jacksonchou/hr-data-for-analytics).
+
 ## Anime Recommendation Project (Python, Data Cleaning, Machine Learning)
 
   A program that recommends anime based on cosine similarity of ratings from thousands of users. 
